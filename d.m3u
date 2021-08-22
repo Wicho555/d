@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY SPORT
+http://b2456-s1-hd2.cdn.spliktv.xyz:8081/live/sky_sports_ehkjbqwe/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",DREIKOTV CANAL 24/7
 https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
 #EXTINF:0 tvg-id="id-extra" group-title="Channels",Discovery ID
