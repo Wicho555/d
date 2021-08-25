@@ -109,6 +109,8 @@ http://ipeteve.com/php/SR_REGIO_220821/tp.php?c=110&p=3&k=srregio&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_220821/tp.php?c=111&p=3&k=srregio&f=.m3u8
 #EXTINF:0 tvg-id="cartoon" group-title="Channels",CARTOON NETWORK
 http://ipeteve.com/php/SR_REGIO_220821/tp.php?c=112&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="cartoon" group-title="Channels",CARTOON NETWORK OP2
+http://tecnotv.club/ago24/smartv3.php?c=615&file=playlist.m3u8
 #EXTINF:0 tvg-id="disney" group-title="Channels",DISNEY CHANNEL
 http://ipeteve.com/php/SR_REGIO_220821/tp.php?c=113&p=3&k=srregio&f=.m3u8
 #EXTINF:0 tvg-id="boomerang" group-title="Channels",BOOMERANG
